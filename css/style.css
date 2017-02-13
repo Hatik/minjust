@@ -6,6 +6,8 @@ input:focus, select:focus, textarea:focus { outline: none; }
 
 table, td, th, tr { border-collapse: collapse; border-spacing: 0; }
 
+body { margin: 0 auto; }
+
 html, body { width: 100%; height: 100%; }
 
 input, select, textarea { font-family: arial, helvetica, sans-serif; font-weight: 400; color: #000; }
