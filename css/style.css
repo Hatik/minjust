@@ -48,7 +48,7 @@ header .main-header .search a.icon { padding: 6px 8px; background: #2c3d61; bord
 header .img-block { height: 400px; background: url(../upload/main-pic.jpg) 0 0 no-repeat; background-size: cover; padding: 59px 0 0 88px; }
 header .img-block .text h1 { font-size: 48px; color: #fff; line-height: 1.22; }
 
-.content-block .container { margin-top: -102px; background: #fff; }
+.content-block .container { margin: -102px auto 0 auto; background: #fff; }
 
 .features-block { padding-bottom: 20px; border-bottom: 1px solid #c9c9c9; }
 .features-block .options-block { width: 675px; float: left; }
